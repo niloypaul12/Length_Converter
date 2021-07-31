@@ -1,0 +1,11 @@
+Scales:
+1 meter = 39.37 inches
+1 meter = 3.28 foot
+1 meter = 100 cm
+1 Km = 1000 meter
+1 km = 100 000 cm
+1 km = 3280.839895 foot
+1 km = 39370.07874
+1 foot = 12 inches
+1 foot = 30.48 cm
+1 inch = 2.54 cm
